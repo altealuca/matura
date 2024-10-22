@@ -1,0 +1,44 @@
+body{
+    font-family: Georgia;
+    font-size: 14pt;
+    background-color: beige;
+}
+
+
+header{
+    font-size: 36pt;
+    font-family: Impact;
+    /*background-image: url("../img/sfondoheader.jpg");*/
+    background-color: mediumseagreen;
+    background-position: center center;
+    text-align: center;
+    border: solid 18pt;
+    border-color: beige;
+    border-width: 15pt;
+    color: #FFFDD0;
+}
+
+
+footer{
+    font-size: 12pt;
+    text-align: center;
+}
+
+
+.id{
+    font-size: 18pt;
+    border-spacing: 20px;
+    background-color: silver;
+    color: black;
+}
+
+
+.bt{
+    font-size: 15pt;
+    font-family: Georgia;
+    color: white;
+    background-color: mediumseagreen;
+    border: 2px solid mediumseagreen;
+    border-radius: 5px;
+    border-style: inset;
+}
